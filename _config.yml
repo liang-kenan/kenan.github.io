@@ -30,7 +30,7 @@ description: >- # this means to ignore newlines until "baseurl:"   （个人介�
 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-github_username: "" # github账号，将在底部增加链接
+github_username: "liang-kenan" # github账号，将在底部增加链接
 author: "【作者】" # 作者，将在页面底部展示
 
 # Build settings
