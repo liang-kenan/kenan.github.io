@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "hello, world"
+title:  "好的开始是成功的一半"
 date:   2022-10-16 20:00:00 +0800
 categories: blog me
 ---
